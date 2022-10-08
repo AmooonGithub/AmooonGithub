@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AmooonGithub
+- 👀 I’m interested in Programming (Games, Websites, Data)
+- 🌱 I’m currently learning HTML and soon learning CSS
